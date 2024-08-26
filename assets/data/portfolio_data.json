@@ -1,0 +1,144 @@
+[
+    {
+        "name": "Green Girl",
+        "thumbnail": "assets/images/portfolios/GreenGirl/1.png",
+        "contents": [
+            "assets/images/portfolios/GreenGirl/1.png",
+            "assets/images/portfolios/GreenGirl/3.png",
+            "assets/images/portfolios/GreenGirl/4.png",
+            "assets/images/portfolios/GreenGirl/2.png",
+            "assets/images/portfolios/GreenGirl/5.png",
+            "assets/images/portfolios/GreenGirl/6.png",
+            "assets/images/portfolios/GreenGirl/7.png"
+        ]
+    },
+    {
+        "name": "VIP Duck",
+        "thumbnail": "assets/images/portfolios/VIPDuck/8.png",
+        "contents": [
+            "assets/images/portfolios/VIPDuck/3.png",
+            "assets/images/portfolios/VIPDuck/4.png",
+            "assets/images/portfolios/VIPDuck/5.png",
+            "assets/images/portfolios/VIPDuck/6.png",
+            "assets/images/portfolios/VIPDuck/7.png",
+            "assets/images/portfolios/VIPDuck/8.png",
+            "assets/images/portfolios/VIPDuck/1.jpg",
+            "assets/images/portfolios/VIPDuck/2.jpg"
+        ]
+    },
+    {
+        "name": "Dark Doraemon",
+        "thumbnail": "assets/images/portfolios/DarkDoraemon/4.jpg",
+        "contents": [
+            "assets/images/portfolios/DarkDoraemon/1.png",
+            "assets/images/portfolios/DarkDoraemon/2.jpg",
+            "assets/images/portfolios/DarkDoraemon/3.jpg",
+            "assets/images/portfolios/DarkDoraemon/4.jpg",
+            "assets/images/portfolios/DarkDoraemon/5.jpg",
+            "assets/images/portfolios/DarkDoraemon/6.jpg"
+        ]
+    },
+    {
+        "name": "Alient Post",
+        "thumbnail": "assets/images/portfolios/AlientPost/15.png",
+        "contents": [
+            "assets/images/portfolios/AlientPost/1.jpg",
+            "assets/images/portfolios/AlientPost/2.png",
+            "assets/images/portfolios/AlientPost/3.jpg",
+            "assets/images/portfolios/AlientPost/4.jpg",
+            "assets/images/portfolios/AlientPost/5.jpg",
+            "assets/images/portfolios/AlientPost/6.jpg",
+            "assets/images/portfolios/AlientPost/7.jpg",
+            "assets/images/portfolios/AlientPost/8.jpg",
+            "assets/images/portfolios/AlientPost/9.jpg",
+            "assets/images/portfolios/AlientPost/10.jpg",
+            "assets/images/portfolios/AlientPost/11.jpg",
+            "assets/images/portfolios/AlientPost/12.jpg",
+            "assets/images/portfolios/AlientPost/13.jpg",
+            "assets/images/portfolios/AlientPost/14.jpg",
+            "assets/images/portfolios/AlientPost/15.png",
+            "assets/images/portfolios/AlientPost/16.png"
+        ]
+    },
+    {
+        "name": "Pri Bot",
+        "thumbnail": "assets/images/portfolios/ChatBot/2.png",
+        "contents": [
+            "assets/images/portfolios/ChatBot/1.png",
+            "assets/images/portfolios/ChatBot/2.png",
+            "assets/images/portfolios/ChatBot/3.png",
+            "assets/images/portfolios/ChatBot/4.png",
+            "assets/images/portfolios/ChatBot/5.png"
+        ]
+    },
+    {
+        "name": "Cry King",
+        "thumbnail": "assets/images/portfolios/CryKing/1.png",
+        "contents": [
+            "assets/images/portfolios/CryKing/1.png",
+            "assets/images/portfolios/CryKing/2.png",
+            "assets/images/portfolios/CryKing/3.png",
+            "assets/images/portfolios/CryKing/4.png",
+            "assets/images/portfolios/CryKing/5.png"
+        ]
+    },
+    {
+        "name": "Cute Bot",
+        "thumbnail": "assets/images/portfolios/CuteBot/2.png",
+        "contents": [
+            "assets/images/portfolios/CuteBot/2.png",
+            "assets/images/portfolios/CuteBot/1.jpg",
+            "assets/images/portfolios/CuteBot/3.png"
+        ]
+    },
+    {
+        "name": "ST Panda",
+        "thumbnail": "assets/images/portfolios/STPanda/1.png",
+        "contents": [
+            "assets/images/portfolios/STPanda/1.png",
+            "assets/images/portfolios/STPanda/2.png",
+            "assets/images/portfolios/STPanda/3.png",
+            "assets/images/portfolios/STPanda/4.png",
+            "assets/images/portfolios/STPanda/5.png",
+            "assets/images/portfolios/STPanda/6.png"
+        ]
+    },
+    {
+        "name": "Teen Char",
+        "thumbnail": "assets/images/portfolios/TeenChar/1_t.png",
+        "contents": [
+            "assets/images/portfolios/TeenChar/1.png",
+            "assets/images/portfolios/TeenChar/2.png",
+            "assets/images/portfolios/TeenChar/3.png",
+            "assets/images/portfolios/TeenChar/4.png",
+            "assets/images/portfolios/TeenChar/5.png",
+            "assets/images/portfolios/TeenChar/6.png",
+            "assets/images/portfolios/TeenChar/7.png",
+            "assets/images/portfolios/TeenChar/8.png",
+            "assets/images/portfolios/TeenChar/9.png",
+            "assets/images/portfolios/TeenChar/10.png",
+            "assets/images/portfolios/TeenChar/11.png"
+        ]
+    },
+    {
+        "name": "Teens Pack",
+        "thumbnail": "assets/images/portfolios/TeenPack/1.png",
+        "contents": [
+            "assets/images/portfolios/TeenPack/1.png",
+            "assets/images/portfolios/TeenPack/2.png",
+            "assets/images/portfolios/TeenPack/3.png",
+            "assets/images/portfolios/TeenPack/4.png",
+            "assets/images/portfolios/TeenPack/5.png",
+            "assets/images/portfolios/TeenPack/6.jpg",
+            "assets/images/portfolios/TeenPack/7.jpg"
+        ]
+    },
+    {
+        "name": "Magic World",
+        "thumbnail": "assets/images/portfolios/Environments/1.png",
+        "contents": [
+            "assets/images/portfolios/Environments/1.png",
+            "https://www.youtube.com/embed/1jNwbUyrxeE?si=WrA-IpoOx1uX7nrc"
+        ]
+    }
+]
