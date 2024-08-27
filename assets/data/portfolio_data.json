@@ -1,7 +1,7 @@
 [
     {
         "name": "Green Girl",
-        "thumbnail": "assets/images/portfolios/GreenGirl/1.png",
+        "thumbnail": "assets/images/portfolios/GreenGirl/1_t.png",
         "contents": [
             "assets/images/portfolios/GreenGirl/1.png",
             "assets/images/portfolios/GreenGirl/3.png",
@@ -14,7 +14,7 @@
     },
     {
         "name": "VIP Duck",
-        "thumbnail": "assets/images/portfolios/VIPDuck/8.png",
+        "thumbnail": "assets/images/portfolios/VIPDuck/8_t.png",
         "contents": [
             "assets/images/portfolios/VIPDuck/3.png",
             "assets/images/portfolios/VIPDuck/4.png",
@@ -28,7 +28,7 @@
     },
     {
         "name": "Dark Doraemon",
-        "thumbnail": "assets/images/portfolios/DarkDoraemon/4.jpg",
+        "thumbnail": "assets/images/portfolios/DarkDoraemon/4_t.png",
         "contents": [
             "assets/images/portfolios/DarkDoraemon/1.png",
             "assets/images/portfolios/DarkDoraemon/2.jpg",
@@ -40,7 +40,7 @@
     },
     {
         "name": "Alient Post",
-        "thumbnail": "assets/images/portfolios/AlientPost/15.PNG",
+        "thumbnail": "assets/images/portfolios/AlientPost/15_t.PNG",
         "contents": [
             "assets/images/portfolios/AlientPost/1.JPG",
             "assets/images/portfolios/AlientPost/2.png",
@@ -62,7 +62,7 @@
     },
     {
         "name": "Pri Bot",
-        "thumbnail": "assets/images/portfolios/ChatBot/2.png",
+        "thumbnail": "assets/images/portfolios/ChatBot/2_t.png",
         "contents": [
             "assets/images/portfolios/ChatBot/1.png",
             "assets/images/portfolios/ChatBot/2.png",
@@ -73,7 +73,7 @@
     },
     {
         "name": "Cry King",
-        "thumbnail": "assets/images/portfolios/CryKing/1.png",
+        "thumbnail": "assets/images/portfolios/CryKing/1_t.png",
         "contents": [
             "assets/images/portfolios/CryKing/1.png",
             "assets/images/portfolios/CryKing/2.png",
@@ -84,7 +84,7 @@
     },
     {
         "name": "Cute Bot",
-        "thumbnail": "assets/images/portfolios/CuteBot/2.PNG",
+        "thumbnail": "assets/images/portfolios/CuteBot/2_t.png",
         "contents": [
             "assets/images/portfolios/CuteBot/2.PNG",
             "assets/images/portfolios/CuteBot/1.JPG",
@@ -93,7 +93,7 @@
     },
     {
         "name": "ST Panda",
-        "thumbnail": "assets/images/portfolios/STPanda/1.png",
+        "thumbnail": "assets/images/portfolios/STPanda/1_t.png",
         "contents": [
             "assets/images/portfolios/STPanda/1.png",
             "assets/images/portfolios/STPanda/2.png",
@@ -122,7 +122,7 @@
     },
     {
         "name": "Teens Pack",
-        "thumbnail": "assets/images/portfolios/TeenPack/1.png",
+        "thumbnail": "assets/images/portfolios/TeenPack/1_t.png",
         "contents": [
             "assets/images/portfolios/TeenPack/1.png",
             "assets/images/portfolios/TeenPack/2.png",
@@ -135,7 +135,7 @@
     },
     {
         "name": "Magic World",
-        "thumbnail": "assets/images/portfolios/Environments/1.png",
+        "thumbnail": "assets/images/portfolios/Environments/1_t.png",
         "contents": [
             "assets/images/portfolios/Environments/1.png",
             "https://www.youtube.com/embed/1jNwbUyrxeE?si=WrA-IpoOx1uX7nrc"
