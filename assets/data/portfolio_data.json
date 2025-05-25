@@ -13,6 +13,13 @@
         ]
     },
     {
+        "name": "Spine Cocos Animation",
+        "thumbnail": "assets/images/portfolios/SpineAnimation/1.png",
+        "contents": [
+            "assets/images/portfolios/SpineAnimation/1.png"
+        ]
+    },
+    {
         "name": "VIP Duck",
         "thumbnail": "assets/images/portfolios/VIPDuck/8_t.png",
         "contents": [
